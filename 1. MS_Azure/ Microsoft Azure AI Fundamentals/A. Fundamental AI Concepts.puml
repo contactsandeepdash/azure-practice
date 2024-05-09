@@ -1,0 +1,76 @@
+@startmindmap
+
++ 1. Introduction to AI
+++ What is AI
++++ Machine learning
++++ Computer vision
++++ Natural language processing
++++ Document intelligence
++++ Knowledge mining
++++ Generative AI
+
+
++ 2. Understand machine learning
+++ Machine learning in Microsoft Azure
++++ Automated machine learning
++++ Azure Machine Learning designer
++++ Data metric visualization
++++ Notebooks
+
+
++ 3. Understand computer vision
+++ Seeing AI app
+++ Image classification
+++ Object detection
+++ Semantic segmentation
+++ CV in MS Azure
++++ Image Analysis
++++ Face detection
++++ Optical character recognition (OCR)
+
+
++ 4. Understand natural language processing
+++ Analyze and interpret text in documents, email messages, and other sources.
+++ Interpret spoken language, and synthesize speech responses.
+++ Automatically translate spoken or written phrases between languages.
+++ Interpret commands and determine appropriate actions.
+++ LUIS app
+++ NLP in MS Azure
++++ Azure AI Language - understanding and analyzing text, training conversational language \nmodels that can understand spoken or text-based commands, \nand building intelligent applications
++++ Azure AI Speech - build natural language processing solutions.\n speech recognition and synthesis, real-time translations, conversation transcriptions, and more
++++ Azure Speech Studio
+
+
++ 5. Understand document intelligence and knowledge mining
+++ Document Intelligence - area of AI that deals with managing, processing, \nand using high volumes of a variety of data found \nin forms and documents.
+++ Document intelligence in Microsoft Azure
++++ Azure AI Document Intelligence - build solutions that manage \nand accelerate data collection from scanned documents
++++ Knowledge mining - extracting information from large volumes \nof often unstructured data to create a searchable knowledge store
++++ Azure AI Search - utilizes the built-in AI capabilities such as \nimage processing, document intelligence, \nand natural language processing to extract data.
+
+
++ 6. Understand generative AI
+++ Generative AI in Microsoft Azure
++++ Azure OpenAI Service
++++ Azure AI Studio
+
+
++ 7. Challenges and risks with AI
+++ Bias can affect results
+++ Errors may cause harm
+++ Data could be exposed
+++ Solutions may not work for everyone
+++ Users must trust a complex system
+++ Who's liable for AI-driven decisions?
+
+
++ 8. Understand Responsible AI
+++ Fairness
+++ Reliability and safety
+++ Privacy and security
+++ Inclusiveness
+++ Transparency
+++ Accountability
+
+
+@endmindmap
